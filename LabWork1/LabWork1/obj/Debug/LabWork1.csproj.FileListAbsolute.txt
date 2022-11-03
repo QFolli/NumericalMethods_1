@@ -1,0 +1,31 @@
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.AssemblyReference.cache
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.Form1.resources
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.Properties.Resources.resources
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.GenerateResource.cache
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+C:\Users\Makalich\OneDrive\Рабочий стол\Работы\LabWork1\LabWork1\obj\Debug\LabWork1.pdb
+C:\Users\user\Desktop\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+C:\Users\user\Desktop\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+C:\Users\user\Desktop\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.Form1.resources
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.Properties.Resources.resources
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+C:\Users\user\Desktop\LabWork1\LabWork1\obj\Debug\LabWork1.pdb
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\bin\Debug\LabWork1.exe.config
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\bin\Debug\LabWork1.exe
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\bin\Debug\LabWork1.pdb
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.AssemblyReference.cache
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.Form1.resources
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.Properties.Resources.resources
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.GenerateResource.cache
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.exe
+C:\Users\xxxxx\OneDrive\Рабочий стол\LabWork1\LabWork1\obj\Debug\LabWork1.pdb
